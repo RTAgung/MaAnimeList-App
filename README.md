@@ -1,2 +1,2 @@
 # MaAnimeList-App
-Android Programming with React Native
+Android App with React Native
